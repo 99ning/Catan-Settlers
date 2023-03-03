@@ -1,2 +1,4 @@
 # Catan-Settlers
-CS246-Final Project
+Uwaterloo-Fall20-CS246-Final Project
+
+
